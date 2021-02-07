@@ -1,2 +1,3 @@
 # react_iniciante-task_list
-Created with CodeSandbox
+
+Link para o projeto [aqui](https://6xjol.csb.app/)
